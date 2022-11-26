@@ -1,0 +1,28 @@
+{
+  "name": "bytebakers",
+  "description": "Byte Bakers website",
+  "authors": [
+    "Hadrien Boyer <hadrien@bytebakers.app>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "ByteBakers",
+    "website",
+    "theme",
+    "Materialize"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=2.1.1 <3.0.0",
+    "materialize": "latest"
+  },
+  "devDependencies": {}
+}
