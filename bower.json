@@ -12,7 +12,7 @@
     "Materialize"
   ],
   "moduleType": [],
-  "homepage": "",
+  "homepage": "./index.html",
   "ignore": [
     "**/.*",
     "node_modules",
